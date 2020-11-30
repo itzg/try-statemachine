@@ -1,0 +1,1 @@
+This is a simple Java library that implements consecutive-count and quorum state machines.
